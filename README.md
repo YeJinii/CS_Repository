@@ -14,3 +14,8 @@
   - vector vs list
   - map vs list
   - OSI 7계층
+
+  - 1분 자기소개
+  - 존경하는 인물
+  - 묘비명
+  - MZ세대에 대한 의견
