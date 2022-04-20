@@ -15,4 +15,5 @@
   - OSI 7계층
 
   - 브라우저의 렌더링 과정
-  - C VS JavaScript
+  - C vs JavaScript
+  - 동기 vs 비동기
