@@ -1,4 +1,3 @@
-# 면접 보면서 질문 모아 놓는 곳
   - SQL vs NoSQL
   - HTTP vs HTTPS
   - REST API
@@ -15,7 +14,5 @@
   - map vs list
   - OSI 7계층
 
-  - 1분 자기소개
-  - 존경하는 인물
-  - 묘비명
-  - MZ세대에 대한 의견
+  - 브라우저의 렌더링 과정
+  - C VS JavaScript
